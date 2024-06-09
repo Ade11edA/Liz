@@ -4,8 +4,17 @@ img{
     display: block;
 };
 
-*{
+.navbar{
     color: white;
+}
+.duck {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+  }
+.duck > * {
+   margin: 10px;
 }
 
 .liz{
