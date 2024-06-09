@@ -3,11 +3,14 @@ img{
 }
 
 .liz{
-    background-color: #0d3b66;
+    background-color: #0081a7;
 }
-
+.Liz{
+    padding: 10px;
+    background-color: #5fc1b2;
+}
 body{
-    background-color: #ffdab9;
+    background-color:  #00afb9;
     color: rgb(255, 255, 255);
 }
 
