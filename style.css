@@ -1,8 +1,15 @@
 img{
-    width: 100vw;
+    height: 100vh;
+    margin: auto;
+    display: block;
+};
+
+*{
+    color: white;
 }
 
 .liz{
+    padding: 10px;
     background-color: #0081a7;
 }
 .Liz{
@@ -17,8 +24,7 @@ body{
 @media (max-width: 480px){
     img{
         height: 80vh;
-        display: flex;
-        justify-content: center;
-        align-items: center;
+        margin: auto;
+        display: block;
     }
 }
