@@ -2,8 +2,15 @@ img{
     width: 100vw;
 }
 
+.liz{
+    background-color: #00afb9;
+}
+
 @media (max-width: 480px){
     img{
-        height: 70vh;
+        height: 80vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
     }
 }
